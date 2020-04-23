@@ -14,7 +14,7 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 - **Vincular fontes de ícones** (Fontawesome).
 
 > **Observações:**
-> - As imagens estão disponíveis na pasta **assets**;
+> - As imagens estão disponíveis na pasta **img**;
 > - ✋ **Não é necessário** que o site seja responsivo;
 > - ✋ **Não utilize** frameworks CSS como Bootstrap, Foundation e afins.
 
