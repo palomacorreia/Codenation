@@ -1,3 +1,3 @@
 # IMDb clone
 
-![Mock do site](https://aceleradev-react.netlify.com/aula-01/public/)
+![Mock do site](https://viniciusvinna.netlify.app/html-movies/)
